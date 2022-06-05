@@ -1,2 +1,3 @@
-# research
-Tugas Akhir - Program Studi Matematika Universitas Lambung Mangkurat
+# Tugas Akhir
+## Klasifikasi Fraud Transaction Menggunakan Algoritma KNN dan ANN
+
